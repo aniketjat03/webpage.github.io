@@ -110,3 +110,6 @@ body{
 .form a:hover{
     color: rgb(161, 42, 42);
 }
+.image img{
+    width: 100%;
+}
